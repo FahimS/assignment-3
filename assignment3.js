@@ -1,7 +1,4 @@
 
-
-
-
 //Qus-1  Ans:
 function kilometerToMeter(kilo) {
     var meter = kilo * 1000;
@@ -69,3 +66,4 @@ function megaFriend(friendsName) {
 var friendsName = ["Fahim", "Shahriar", "Setu"];
 var result = megaFriend(friendsName);
 console.log(result);
+
